@@ -32,7 +32,7 @@ body {
   position: relative;
   background: linear-gradient(to left, #306BAC, #141B41);
   color: #fff;
-  margin: 1 auto;
+  margin: 0 auto;
   padding: 30px;
   border-radius: 20px;
   box-shadow: 0px 0px 80px 1px #212129;
@@ -62,7 +62,7 @@ body {
   transition: 300ms;
 }
 .wrapper .social-media a i:hover {
-  color: #9fef00;
+  color: #A1A2AD;
   transition: 300ms;
 }
 .wrapper .follow {
