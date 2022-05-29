@@ -4,7 +4,7 @@
 }
 
 * {
-  margin: 0;
+  margin: 1;
   padding: 0;
   font-family: "PT Sans", sans-serif;
   text-align: center;
@@ -62,7 +62,7 @@ body {
   transition: 300ms;
 }
 .wrapper .social-media a i:hover {
-  color: #A1A2AD;
+  color: #9fef00;
   transition: 300ms;
 }
 .wrapper .follow {
